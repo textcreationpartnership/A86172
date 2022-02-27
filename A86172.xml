@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lamentable complaint of the north-west countrey-man. By T.H. Published according to order.</title>
+            <author>T. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86172</idno>
+            <idno type="STC">Wing H137</idno>
+            <idno type="STC">Thomason E309_33</idno>
+            <idno type="STC">ESTC R200427</idno>
+            <idno type="EEBO-CITATION">99861186</idno>
+            <idno type="PROQUEST">99861186</idno>
+            <idno type="VID">113314</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86172)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113314)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 51:E309[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lamentable complaint of the north-west countrey-man. By T.H. Published according to order.</title>
+                  <author>T. H.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the yeare, 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "Nou: 22th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113314:1" rendition="simple:additions"/>
+            <p>THE LAMENTABLE COMPLAINT <hi>OF THE</hi> NORTH-WEST <hi>COUNTREY-MAN.</hi>
+            </p>
+            <p>
+               <hi>By</hi> T. H.</p>
+            <p>Publiſhed according to Order.</p>
+            <p>LONDON, Printed in the yeare, 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113314:2"/>
+            <pb n="1" facs="tcp:113314:2"/>
+            <head>THE COMPLAINT OF THE NORTH-WEST <hi>COUTREY-MAN.</hi>
+            </head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">Y</seg>Ou are well over-taken good Neighbour,</l>
+               <l>Whether agoo this way,</l>
+               <l>O how do you good <hi>John,</hi>
+               </l>
+               <l>I am very much diſcontented</l>
+               <pb n="2" facs="tcp:113314:3"/>
+               <l>At theſe times, and at my loſſes,</l>
+               <l>Tis no matter which way ich go:</l>
+               <l>Why man, be contented?</l>
+               <l>A be on the ſtrongeſt ſide,</l>
+               <l>And thou mayſt do well enough:</l>
+               <l>How? do wel enough ſay you neybour,</l>
+               <l>Why do you ſay ſo? whether ich am</l>
+               <l>Roundhead <hi>or</hi> Cavaleer, <hi>the ſoldiers</hi>
+               </l>
+               <l>Will be ſhure to drink up all my Beer,</l>
+               <l>My Hens, Ducks and Geeſe,</l>
+               <l>They will be ſhure to have a fleece:</l>
+               <l>In my chimney ich was wont to have</l>
+               <l>Eight ſtitches of bacon fat and brave,</l>
+               <l>But now at night it may be well hung,</l>
+               <l>But in the morning it will be gon,</l>
+               <l>Such doings makes my heart to ake:</l>
+               <l>And I for feare do ſometimes ſhake,</l>
+               <l>A-pies take them all.</l>
+               <l>My horſes I in field have fed</l>
+               <pb n="3" facs="tcp:113314:3"/>
+               <l>In former time where they were bred,</l>
+               <l>And I road on them in peace,</l>
+               <l>But now my troubles do increaſe,</l>
+               <l>Altho for them I paid full deare,</l>
+               <l>Yet I have left me the ſmalleſt ſhare:</l>
+               <l>A-goodieer take them all.</l>
+               <l>My Butter, Cheeſe, Milk Curds, and whay,</l>
+               <l>They take my very ſpoon-meat away:</l>
+               <l>What a life is this?</l>
+               <l>Laſt week ich chad ſeven ſcore ſheep,</l>
+               <l>And ich made account them to keep,</l>
+               <l>Good profit for to make:</l>
+               <l>But now, alas, God wot:</l>
+               <l>They are all gone unto the pot,</l>
+               <l>Shuch havock now a-days they make,</l>
+               <l>My corn God Almighty bleſt upon the ground,</l>
+               <l>Into my Barn I brought it ſound,</l>
+               <l>Thinking therby to increaſe my eſtate,</l>
+               <pb n="4" facs="tcp:113314:4"/>
+               <l>And to make me and my honſhold for<g ref="char:EOLhyphen"/>tunate:</l>
+               <l>But now I muſt think of another fate,</l>
+               <l>Alack, what ſhall I do:</l>
+               <l>My woollen, linnen, and ſhuch ſtuff:</l>
+               <l>Ye my verie Ruff in danger to be loſt,</l>
+               <l>My braſs and pewter &amp; ſhuch things:</l>
+               <l>I and my wifes rings now muſt al-ago,</l>
+               <l>Mony I had but little ſtore:</l>
+               <l>But yet they ſay, they will have more:</l>
+               <l>But wher do think ich ſhould have it.</l>
+               <l>Ich have ſome religion as well as they,</l>
+               <l>Surely ſome men have gone aſtray,</l>
+               <l>That maketh ſuch a quille:</l>
+               <l>But our ſins (alas) it was the way<g ref="char:punc">▪</g>
+               </l>
+               <l>That brought upon us all this fray:</l>
+               <l>God knoweth when toull end,</l>
+               <l>Our pride, ſecuritie, oppreſsion it was great:</l>
+               <l>When the Chriſtian World was in a fret:</l>
+               <l>And toild with bloudie War:</l>
+               <l>But now our ſhare is come in haſte,</l>
+               <pb n="5" facs="tcp:113314:4"/>
+               <l>And daily make us for to waſte,</l>
+               <l>The like was never known:</l>
+               <l>So many bloudy battels in four Yeers,</l>
+               <l>The like ſtorie you did never heare</l>
+               <l>In any Chriſtian age, our land,</l>
+               <l>Now full well is known to be in wars:</l>
+               <l>And jars, iſh bloudie ones in all the Chriſtian World:</l>
+               <l>This is the land, ſay they,</l>
+               <l>That lived in wealth and ſtore,</l>
+               <l>But nowtheir ſorrows are grown more denie,</l>
+               <l>Then any Land beſides:</l>
+               <l>This is Gods true Church wee cannot</l>
+               <l>But Chriſt abundance there will juſti<g ref="char:EOLhyphen"/>fie,</l>
+               <l>God ſend them well to end.</l>
+               <l>God bleſs our <hi>King</hi> &amp; <hi>Parlament,</hi>
+               </l>
+               <l>And grant at laſt they may conſent,</l>
+               <l>To have a godly peace:</l>
+               <l>Lord bleſſe this people great &amp; ſmall,</l>
+               <pb n="6" facs="tcp:113314:5"/>
+               <l>And grant that we on him may call</l>
+               <l>In truth and righteouſneſſe,</l>
+               <l>That he may ſend us a godly peace,</l>
+               <l>That ſo our joys they may increaſe:</l>
+               <l>And we may praiſe Gods Name there<g ref="char:EOLhyphen"/>fore: <hi>AMEN.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
